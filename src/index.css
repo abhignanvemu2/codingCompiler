@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.react-resizable-panels__resize-handle {
+  background-color: #888;
+  width: 4px;
+  cursor: col-resize;
+}
